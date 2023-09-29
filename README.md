@@ -1,2 +1,2 @@
 # PB-Softuni
-Programming Basics - Java
+Programming Basics
